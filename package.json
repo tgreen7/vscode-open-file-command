@@ -2,6 +2,7 @@
   "name": "open-file-command",
   "displayName": "open-file-command",
   "description": "Adds a command which can be used by keyboard shortcuts to open any file",
+  "license": "MIT",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.46.0"
@@ -9,6 +10,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "url": "https://github.com/tgreen7/vscode-open-file-command"
+  },
+  "publisher": "tgreen7",
   "activationEvents": [
     "onCommand:open-file-command.openFile"
   ],
