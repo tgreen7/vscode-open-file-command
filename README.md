@@ -4,7 +4,7 @@ adds the command `open-file-command.openFile` which can be used to open any file
 
 ## How to Use
 
-Add a a keyboard shortcut like:
+Add a a keyboard shortcut:
 
 ```json
 {
